@@ -2,17 +2,17 @@ const FeedbackData = [
     {  
           id:1,
          rating:10,
-         text:"Hello world 10"
+         text:"Very nice services"
     },
     {  
          id:2,
         rating:9,
-        text:"Hello world 9"
+        text:"Happly served"
     },
     { 
          id:3,
         rating:8,
-        text:"Hello world 8"
+        text:"Enjoyed very well"
     }
     
 ]
